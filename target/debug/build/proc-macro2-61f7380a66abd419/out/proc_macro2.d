@@ -1,6 +1,6 @@
-/Users/mauricio/ICP-RUST/hello_world/target/debug/build/proc-macro2-61f7380a66abd419/out/libproc_macro2.rmeta: build/probe.rs
+/Users/mauricio/ICP-RUST/basic-hello-world-icp/target/debug/build/proc-macro2-61f7380a66abd419/out/libproc_macro2.rmeta: build/probe.rs
 
-/Users/mauricio/ICP-RUST/hello_world/target/debug/build/proc-macro2-61f7380a66abd419/out/proc_macro2.d: build/probe.rs
+/Users/mauricio/ICP-RUST/basic-hello-world-icp/target/debug/build/proc-macro2-61f7380a66abd419/out/proc_macro2.d: build/probe.rs
 
 build/probe.rs:
 
